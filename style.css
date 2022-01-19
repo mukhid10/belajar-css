@@ -1,0 +1,36 @@
+body {
+    margin: 0%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.foto {
+    background-color: rgb(187, 187, 187);
+    padding: 40px 0;
+}
+
+.foto img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.about p {
+    text-align: justify;
+    margin: 0 10%;
+}
+
+.card-container {
+    justify-content: center;
+    display: flex;
+}
+
+.card-skill {
+width: 100px;
+height: 150px;
+border: 1px solid black;
+margin: 0 10px;
+}
+
